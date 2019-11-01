@@ -10,4 +10,6 @@ console.log("Mika Okamoto")
 app.listen(3000, () => console.log('Example app listening on port 3000!'))
 
 console.log("Mika is making more edits here to practice some more because")
-console.log("Practice is good for Mika."))
+console.log("Practice is good for Mika.")
+
+// Hello, this is a comment made by Mika for more practiceeeeeeeeeeeeee
