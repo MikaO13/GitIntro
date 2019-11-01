@@ -7,3 +7,9 @@
 ## Dependencies
 * Node 6+[Node](https://nodejs.org/en/download/package-manager/)
 * Npm
+
+### Mika Edits
+* Mika is cool
+* Sofie is cool
+* Cathy is awesome
+* Yay!
